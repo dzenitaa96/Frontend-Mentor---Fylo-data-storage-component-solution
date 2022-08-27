@@ -23,7 +23,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop view](./Desktop%20view.png)
-![Mobile] (./Mobile view.png)
 
 ### Links
 
